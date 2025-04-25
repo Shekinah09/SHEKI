@@ -1,0 +1,4 @@
+# subtraction of two numbers
+x=12
+y=6
+print(x-y)
